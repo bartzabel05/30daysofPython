@@ -32,4 +32,6 @@ Tracking my everyday progress while learning Python (in 30 days)
 | 28 |  [API]
 | 29 |  [Building API]
 | 30 |  [Conclusions]
-This repository contains solutions to the original repository <a src="https://github.com/Asabeneh/30-Days-Of-Python">here</a>.
+
+
+This repository contains solutions to the original repository [here](https://github.com/Asabeneh/30-Days-Of-Python)
